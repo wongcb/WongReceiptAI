@@ -1,0 +1,7 @@
+{
+  "name": "WongReceiptAI",
+  "description": "AI-powered receipt scanner and expense tracker with Excel export capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
